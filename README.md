@@ -1,5 +1,5 @@
 # Hockey vs Zombies
-Asteroids is a game I made in Unity, a simulation showcasing collision detection and autonomous agents.
+A game I made in Unity, a simulation showcasing collision detection and autonomous agents.
 
 ## Game controls
 * SPACE – shoot
