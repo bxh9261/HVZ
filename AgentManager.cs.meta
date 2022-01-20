@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf2d44dcf7614da47a972bf6439bbc04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zCube: {fileID: 100000, guid: e73ac4c9a51fee446bd28757df54f0f4, type: 3}
+  - humanCube: {fileID: 8928239594415683570, guid: 9befa8e09e8b9f34192b6d28d48f71be,
+      type: 3}
+  - treeCube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
